@@ -1,12 +1,6 @@
 {
   "name": "certc",
   "version": "0.0.3",
-  "private": true,
-  "author": {
-    "name": "Aoki Daichi",
-    "email": "blz.soft@outlook.jp",
-    "url": "http://aokki.jp"
-  },
   "dependencies": {
     "@date-io/date-fns": "^2.13.2",
     "@date-io/dayjs": "^2.13.2",
